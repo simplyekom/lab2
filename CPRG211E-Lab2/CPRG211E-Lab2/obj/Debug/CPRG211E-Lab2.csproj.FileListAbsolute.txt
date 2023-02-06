@@ -1,0 +1,9 @@
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\bin\Debug\employees.txt
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\bin\Debug\CPRG211E-Lab2.exe.config
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\bin\Debug\CPRG211E-Lab2.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\bin\Debug\CPRG211E-Lab2.pdb
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\obj\Debug\CPRG211E-Lab2.csproj.AssemblyReference.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\obj\Debug\CPRG211E-Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\obj\Debug\CPRG211E-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\obj\Debug\CPRG211E-Lab2.exe
+C:\Users\simpl\Documents\Winter 2023 OOP\CPRG211E\projects\CPRG211E-Lab2\CPRG211E-Lab2\obj\Debug\CPRG211E-Lab2.pdb
